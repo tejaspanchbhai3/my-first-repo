@@ -1,4 +1,4 @@
 welcome to my repo
 learning git is going well
 added this text to new branch
-add weather info
+wheather is cloudy today # # #
