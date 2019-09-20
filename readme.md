@@ -1,28 +1,13 @@
-# This is a large heading
-# this is anoter large heading
-## This is a smaller heading
+# Tejas panchbhai
+## this is me
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+###study
 
-- This is
-- an unordered
-- list
+vjti mumbai 
+currently in ltts
 
-1. This is
-2. an ordered
-3. list
+###sports i play
+-*football*messi is #GOAT
+-*basketball*
 
-Here is `some code` in the middle of a sentence.
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-## another link [link link linka](https://www.google.com/)
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
